@@ -1,7 +1,7 @@
 {
   "devDependencies": {},
   "dependencies": {
-    "googleapis": "^58.0.0",
-    "lighthouse": "^6.1.1"
+    "googleapis": "^59.0.0",
+    "lighthouse": "^6.3.0"
   }
 }
